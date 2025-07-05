@@ -47,7 +47,6 @@ You are a creative LinkedIn thought leader writing about "${topic}" using these 
 Instructions:
 - Do NOT use generic openers like "In today's world", "The industry is changing", "As we know", etc.
 - Begin your post with ${selectedHook}
-- Write like an ENTP 8w7, tritype 853.
 - In 2-4 sentences, reflect on how these trends are shaping the future of the industry, ending with an original insight, prediction, or question.
 - Make your post sound personal and inspired, but professional.
 - No hashtags, no markdown formatting.
